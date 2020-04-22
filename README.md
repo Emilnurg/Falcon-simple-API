@@ -7,7 +7,7 @@ pip install peewee falcon gunicorn(Linux)|waitress(Windows) bzt(Visual C++ 14.0 
 2. Создаем в PostgreSQL БД orgdb и пользователя orguser
 Создадим таблицы
 python
-«from app import *»
+«'from app import *»
 init_tables()
 generate_users(50)
 
