@@ -1,0 +1,4 @@
+Not able to find Java executable or version. Please check your Java installation.
+errorlevel=2
+Для продолжения нажмите любую клавишу . . . 
+Завершить выполнение пакетного файла [Y(да)/N(нет)]? 
